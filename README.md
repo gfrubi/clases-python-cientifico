@@ -1,4 +1,4 @@
-Clases sobre Computación Científica con Python
+Computación Científica con Python
 ============================================
 
 Un conjunto de clases sobre computación científica con Python, usando IPython notebooks.
