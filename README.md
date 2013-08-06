@@ -28,4 +28,4 @@ Use los siguientes links:
 Licencia
 =======
 
-Este trabajo es licenciado bajo [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
+Este trabajo es licenciado bajo [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/deed.es)
