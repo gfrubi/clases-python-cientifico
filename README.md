@@ -1,20 +1,20 @@
-Lectures on scientific computing with Python
+Clases sobre Computación Científica con Python
 ============================================
 
-A set of lectures on scientific computing with Python, using IPython notebooks.
+Un conjunto de clases sobre computación científica con Python, usando IPython notebooks.
 
-To open these notebooks in IPython, download the files to a directory on your computer and from that directory run:
+Para abrir estos notebooks en IPython, descargue los archivos a una carpeta en su computador y desde esa carpeta ejecute:
 
     $ ipython notebook
 
-This will open a new page in your browser with a list of the available notebooks.
+Esto abrirá una nueva pestaña de su navegador, con una listo de los notebooks disponibles.
 
-Online read-only versions
+Versiones en línea sólo de lectura
 =========================
 
-Use the following links:
+Use los siguientes links:
 
-* [Lecture-0 Scientific Computing with Python](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-0-Scientific-Computing-with-Python.ipynb)
+* [Lecture-0 Computación Científica con Python](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures/master/Lecture-0-Scientific-Computing-with-Python.ipynb)
 * [Lecture-1 Introduction to Python Programming](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
 * [Lecture-2 Numpy - multidimensional data arrays](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-2-Numpy.ipynb)
 * [Lecture-3 Scipy - Library of scientific algorithms](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-3-Scipy.ipynb)
@@ -25,7 +25,7 @@ Use the following links:
 * [Lecture-7 Revision Control Software](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-7-Revision-Control-Software.ipynb)
 
 
-License
+Licencia
 =======
 
-This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
+Este trabajo es licenciado bajo [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
