@@ -15,7 +15,7 @@ Versiones en línea sólo de lectura
 Use los siguientes links:
 
 * [Lecture-0 Computación Científica con Python](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-0-Scientific-Computing-with-Python.ipynb)
-* [Lecture-1 Introduction to Python Programming](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
+* [Lecture-1 Introducción a la programación en Python](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
 * [Lecture-2 Numpy - multidimensional data arrays](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-2-Numpy.ipynb)
 * [Lecture-3 Scipy - Library of scientific algorithms](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-3-Scipy.ipynb)
 * [Lecture-4 Matplotlib - 2D and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/gfrubi/scientific-python-lectures-spanish/master/Lecture-4-Matplotlib.ipynb)
