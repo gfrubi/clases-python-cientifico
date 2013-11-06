@@ -14,7 +14,10 @@
    width="164.94"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="teoria-experimento-computacion.svg">
+   sodipodi:docname="teoria-experimento-computacion.svg"
+   inkscape:export-filename="/home/gr/Dropbox/Git/clases-python-cientifico/images/teoria-experimento-computacion.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
